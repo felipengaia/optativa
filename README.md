@@ -6,8 +6,6 @@ quadro.jpg - imagem do quadro feito em sala de aula contendo o exemplo
 
 # Comandos:
 
-#Markdown 
-
 ```
 docker build -t nginx .
 docker run -dp 80:80

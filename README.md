@@ -1,7 +1,9 @@
 # Primeiro exemplo
 
 DockerFile - arquivo que contém os comandos de deploy
+
 index.html - arquivo com o código-fonte
+
 quadro.jpg - imagem do quadro feito em sala de aula contendo o exemplo 
 
 # Comandos:

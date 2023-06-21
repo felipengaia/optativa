@@ -1,0 +1,29 @@
+Trabalho 2
+
+1 - Rodar o Docker
+2 - Criar os containeres no Docker
+	App
+	BD - Volume
+3 - Subir para o DockerHub
+4 - Rodar o Kubernetes
+5 - Rodar o Minikube
+6 - Deploy dos (PODs = conjunto de containeres)
+7 - Secrets (opcional)
+8 - Criar várias instâncias do mesmo POD
+	1 - Réplicas
+	2 - Balanceamento de Carga (Nuvem) $$$
+	3 - Elasticidade (Nuvem) $$$
+	
+Trabalho 3
+1 - Criar conta na AWS (Free Tier)
+2 - Criar uma instância EC2
+3 - Acessar o console
+4 - Instalar o Docker
+	sudo yum install docker 
+	sudo systemctl enable docker 
+	sudo systemctl start docker
+ 
+5 - Fazer o deploy do Trabalho 1 utilizando o Compose.
+	sudo yum install git
+	git clone ...
+	docker compose ...
